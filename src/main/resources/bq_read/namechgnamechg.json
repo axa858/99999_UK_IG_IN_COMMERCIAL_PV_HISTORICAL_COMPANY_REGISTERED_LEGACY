@@ -1,0 +1,69 @@
+{
+  "name": "namechg_namechg",
+  "description": "namechg_namechg",
+  "createMode": "",
+  "writeMode": "",
+  "partition": "",
+  "columnMapping": [
+    {
+      "source": "company",
+      "type": "STRING",
+      "position": 1,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "name",
+      "type": "STRING",
+      "position": 2,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "alpha",
+      "type": "STRING",
+      "position": 3,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "cdate",
+      "type": "STRING",
+      "position": 4,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "sdate",
+      "type": "STRING",
+      "position": 5,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "source",
+      "type": "STRING",
+      "position": 6,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "reason",
+      "type": "STRING",
+      "position": 7,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "stime",
+      "type": "STRING",
+      "position": 8,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "operatorid",
+      "type": "STRING",
+      "position": 9,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "name_hash",
+      "type": "STRING",
+      "position": 10,
+      "bqtype": "STRING"
+    }
+  ]
+}

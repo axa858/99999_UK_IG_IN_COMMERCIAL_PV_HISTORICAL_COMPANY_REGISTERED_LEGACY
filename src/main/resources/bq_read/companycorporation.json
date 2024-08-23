@@ -1,0 +1,249 @@
+{
+  "name": "company_corporation",
+  "description": "company_corporation",
+  "createMode": "",
+  "writeMode": "",
+  "partition": "",
+  "columnMapping": [
+    {
+      "source": "company",
+      "type": "STRING",
+      "position": 1,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "name",
+      "type": "STRING",
+      "position": 2,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "alpha",
+      "type": "STRING",
+      "position": 3,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "costat",
+      "type": "STRING",
+      "position": 4,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "repstat",
+      "type": "STRING",
+      "position": 5,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "add1",
+      "type": "STRING",
+      "position": 6,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "add2",
+      "type": "STRING",
+      "position": 7,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "add3",
+      "type": "STRING",
+      "position": 8,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "add4",
+      "type": "STRING",
+      "position": 9,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "acrefdate",
+      "type": "STRING",
+      "position": 10,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "incdate",
+      "type": "STRING",
+      "position": 11,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "acmdate",
+      "type": "STRING",
+      "position": 12,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "anrdate",
+      "type": "STRING",
+      "position": 13,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "watch",
+      "type": "STRING",
+      "position": 14,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "watchnote",
+      "type": "STRING",
+      "position": 15,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "quarterly",
+      "type": "STRING",
+      "position": 16,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "vatreg",
+      "type": "STRING",
+      "position": 17,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "cotype",
+      "type": "STRING",
+      "position": 18,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "esource",
+      "type": "STRING",
+      "position": 19,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "ustatdate",
+      "type": "STRING",
+      "position": 20,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "inspect",
+      "type": "STRING",
+      "position": 21,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "vtc",
+      "type": "STRING",
+      "position": 22,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "ho_post",
+      "type": "STRING",
+      "position": 23,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "ho_phone",
+      "type": "STRING",
+      "position": 24,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "acctype",
+      "type": "STRING",
+      "position": 25,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "postcode",
+      "type": "STRING",
+      "position": 26,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "town",
+      "type": "STRING",
+      "position": 27,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "d_date",
+      "type": "STRING",
+      "position": 28,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "df_date",
+      "type": "STRING",
+      "position": 29,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "tapedate",
+      "type": "STRING",
+      "position": 30,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "taperef",
+      "type": "STRING",
+      "position": 31,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "tapemtype",
+      "type": "STRING",
+      "position": 32,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "inspectdate",
+      "type": "STRING",
+      "position": 33,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "kpostcode",
+      "type": "STRING",
+      "position": 34,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "careof",
+      "type": "STRING",
+      "position": 35,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "pobox",
+      "type": "STRING",
+      "position": 36,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "jurisdiction",
+      "type": "STRING",
+      "position": 37,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "countryorigin",
+      "type": "STRING",
+      "position": 38,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "eurcompany",
+      "type": "STRING",
+      "position": 39,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "name_hash",
+      "type": "STRING",
+      "position": 40,
+      "bqtype": "STRING"
+    }
+  ]
+}

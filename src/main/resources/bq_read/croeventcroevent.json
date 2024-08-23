@@ -1,0 +1,39 @@
+{
+  "name": "croevent_croevent",
+  "description": "croevent_croevent",
+  "createMode": "",
+  "writeMode": "",
+  "partition": "",
+  "columnMapping": [
+    {
+      "source": "company",
+      "type": "STRING",
+      "position": 1,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "ecode",
+      "type": "STRING",
+      "position": 2,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "edate",
+      "type": "STRING",
+      "position": 3,
+      "bqtype": "STRING"
+    },
+	{
+      "source": "transactionid",
+      "type": "STRING",
+      "position": 4,
+      "bqtype": "STRING"
+    },
+	{
+      "source": "gzeffdate",
+      "type": "STRING",
+      "position": 5,
+      "bqtype": "STRING"
+    }
+  ]
+}

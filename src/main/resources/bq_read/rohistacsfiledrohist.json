@@ -1,0 +1,111 @@
+{
+  "name": "rohistacsfiled_rohist",
+  "description": "rohistacsfiled_rohist",
+  "createMode": "",
+  "writeMode": "",
+  "partition": "",
+  "columnMapping": [
+    {
+      "source": "company",
+      "type": "STRING",
+      "position": 1,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "add1",
+      "type": "STRING",
+      "position": 2,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "add2",
+      "type": "STRING",
+      "position": 3,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "locality",
+      "type": "STRING",
+      "position": 4,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "town",
+      "type": "STRING",
+      "position": 5,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "county",
+      "type": "STRING",
+      "position": 6,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "postcode",
+      "type": "STRING",
+      "position": 7,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "cdate",
+      "type": "STRING",
+      "position": 8,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "ctime",
+      "type": "STRING",
+      "position": 9,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "operatorid",
+      "type": "STRING",
+      "position": 10,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "kpostcode",
+      "type": "STRING",
+      "position": 11,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "careof",
+      "type": "STRING",
+      "position": 12,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "pobox",
+      "type": "STRING",
+      "position": 13,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "add1_hash",
+      "type": "STRING",
+      "position": 14,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "add2_hash",
+      "type": "STRING",
+      "position": 15,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "postcode_hash",
+      "type": "STRING",
+      "position": 16,
+      "bqtype": "STRING"
+    },
+    {
+      "source": "kpostcode_hash",
+      "type": "STRING",
+      "position": 17,
+      "bqtype": "STRING"
+    }
+  ]
+}
